@@ -1,7 +1,7 @@
 # Test Summary Report - Swag Labs (saucedemo.com)
 
 **Project:** Manual testing of Swag Labs demo e-commerce app
-**Tester:** Nikhil Partap Singh
+**Tester:** Nikhil Pratap Singh
 **Execution date:** 29 September 2026
 **Environment:** Chrome (latest), Windows 11, desktop viewport
 
