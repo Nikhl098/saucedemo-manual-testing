@@ -1,6 +1,6 @@
 # Bug Report - Swag Labs (saucedemo.com)
 
-Found during manual execution on 29 September 2026 by Nikhil Partap Singh.
+Found during manual execution on 29 September 2026 by Nikhil Pratap Singh.
 Browser: Chrome, Windows 11.
 
 ---
@@ -70,4 +70,4 @@ Browser: Chrome, Windows 11.
 ## Notes
 
 - The same flows pass for `standard_user`, so the defects are isolated to the `problem_user` account (the demo app intentionally seeds defects in this account).
-- All three defects reproduced consistently on repeat attempts.
+- All four defects reproduced consistently on repeat attempts.
