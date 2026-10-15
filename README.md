@@ -2,7 +2,7 @@
 
 Manual testing of the Swag Labs demo e-commerce application (https://www.saucedemo.com), a public practice site maintained by Sauce Labs for QA learning.
 
-**Author:** Nikhil Partap Singh - Manual QA Tester (Fresher)
+**Author:** Nikhil Pratap Singh - Manual QA Tester (Fresher)
 **Date executed:** 29 September 2026
 
 ## Scope
